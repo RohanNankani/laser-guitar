@@ -1,0 +1,7 @@
+videos/
+venv
+logs
+build
+__pycache__
+*.spec
+dist
